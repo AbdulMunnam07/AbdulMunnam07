@@ -5,16 +5,135 @@
 
 - 📫 How to reach me **createrking40@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/munnammalik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/munnammalik/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/munnam.malik.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/munnam.malik.1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/createrking40/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/createrking40/" height="30" width="40" /></a>
+<h2><i>💻 Tech Tools</i></h2>
+
+<table width="100">
+<tr>
+    <td align='center' width="190">
+        <img src="./Images/JS.jpg" alt="Javascript" width="150px" height="100px">
+    </td>
+    <td align='center' width="190">
+        <img src="./Images/TS.png" alt="Typescript" width="150px" height="100px">
+    </td>
+     <td align='center' width="190">
+        <img src="./Images/react.webp" alt="React-JS" width="150px" height="100px">
+    </td>
+     <td align='center' width="190">
+        <img src="./Images/git.webp" alt="Git" width="150px" height="100px">
+    </td>
+     <td align='center' width="190">
+        <img src="./Images/cloud-firestore.jpg" alt="Cloud-Firestore" width="150px" height="100px">
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="./Images/python.png" alt="Python"  width="150px" height="100px">
+    </td>
+    <td align='center'>
+        <img src="./Images/node-js.webp" alt="Node-JS"  width="150px" height="100px">
+    </td>
+    <td align='center'>
+        <img src="./Images/express-js.png" alt="Express-JS"  width="150px" height="100px">
+    </td>
+    <td align='center'>
+        <img src="./Images/mongo-db.png" alt="Mongo-DB"  width="150px" height="100px">
+    </td>
+    <td align='center'>
+        <img src="./Images/firebase.png" alt="Firebase"  width="150px" height="100px">
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="./Images/html.webp" alt="HTML"  width="150px" height="100px">
+    </td>
+    <td align='center'>
+        <img src="./Images/css2.png" alt="CSS"  width="150px" height="100px">
+    </td>
+    <td align='center'>
+        <img src="./Images/heroku.svg" alt="Heroku"  width="150px" height="100px">
+    </td>
+    <td align='center'>
+        <img src="./Images/vs-code.jpg" alt="VS-CODE"  width="150px" height="100px">
+    </td>
+    <td align='center'>
+        <img src="./Images/postman.png" alt="Postman"  width="150px" height="100px">
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="./Images/graphql.png" alt="Graph-QL"  width="150px" height="100px">
+    </td>
+    <td align='center'>
+        <img src="./Images/react-native.png" alt="React-Native"  width="150px" height="100px">
+    </td>
+    <td align='center'>
+        <img src="./Images/dart.png" alt="Dart"  width="150px" height="100px">
+    </td>
+    <td align='center'>
+        <img src="./Images/Github.png" alt="Github"  width="150px" height="100px">
+    </td>
+    <td align='center'>
+        <img src="./Images/sass.png" alt="SASS"  width="150px" height="100px">
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="./Images/bootstrap.png" alt="Bootstrap 5"  width="150px" height="100px">
+    </td>
+    <td align='center'>
+        <img src="./Images/chakra.png" alt="Chakra-UI"  width="150px" height="100px">
+    </td>
+    <td align='center'>
+        <img src="./Images/IJ.png" alt="IntelliJ IDEA"  width="150px" height="100px">
+    </td>
+    <td align='center'>
+        <img src="./Images/linux.png" alt="Linux"  width="150px" height="100px">
+    </td>
+    <td align='center'>
+        <img src="./Images/scss.webp" alt="SCSS"  width="150px" height="100px">
+    </td>
+</tr>
+
+<tr>
+    <td align='center'>
+        <img src="./Images/C.png" alt="C"  width="150px" height="100px">
+    </td>
+    <td align='center' width="190">
+        <img src="./Images/C++.png" alt="C++"  width="150px" height="100px">
+    </td>
+    <td align='center'>
+        <img src="./Images/oop.png" alt="OOP"  width="150px" height="100px">
+    </td>
+    <td align='center'>
+        <img src="./Images/java.webp" alt="JAVA"  width="150px" height="100px">
+    </td>
+     <td align='center'>
+        <img src="./Images/DSA.jpg" alt="Data Structure & Algorithms"  width="150px" height="100px">
+    </td>
+</tr>
+
+</table>
+
+<br />
+<br />
+
+## Connect with Me 🤝
+
+<p align="center">
+<a href="https://www.ahmad-jajja.com"><img src="https://img.shields.io/badge/-ahmadjajja.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ahmad-jajja"><img src="https://img.shields.io/badge/-Ahmad%20Jajja-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:ahmadjajja86@gmail.com"><img src="https://img.shields.io/badge/-ahmadjajja86@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulmunnam07&show_icons=true&locale=en" alt="abdulmunnam07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmunnam07&" alt="abdulmunnam07" /></p>
+ <h2><i>⚙️ GitHub Analytics</i></h2>
+
+<p align="center">
+<a href="https://github.com/AbdulMunnam07">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AbdulMunnam07&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdulMunnam07&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulMunnam07&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+</p>
+</p>
