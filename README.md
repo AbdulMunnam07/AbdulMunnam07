@@ -52,9 +52,6 @@
     <td align='center'>
         <img src="./Images/oop.png" alt="OOP"  width="150px" height="100px">
     </td>
-    <td align='center'>
-        <img src="./Images/java.webp" alt="JAVA"  width="150px" height="100px">
-    </td>
      <td align='center'>
         <img src="./Images/DSA.jpg" alt="Data Structure & Algorithms"  width="150px" height="100px">
     </td>
