@@ -30,7 +30,7 @@
         <img src="./Images/html.webp" alt="HTML"  width="150px" height="100px">
     </td>
     <td align='center'>
-        <img src="./Images/css2.png" alt="CSS"  width="150px" height="100px">
+        <img src="./Images/css.png" alt="CSS"  width="150px" height="100px">
     </td>
     <td align='center'>
         <img src="./Images/vs-code.jpg" alt="VS-CODE"  width="150px" height="100px">
