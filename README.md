@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **createrking40@gmail.com**
 
-<h2><i>💻 Tech Tools</i></h2>
+<h2><i>💻 Tech Tools </i></h2>
 
 <table width="100">
 <tr>
