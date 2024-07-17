@@ -115,7 +115,7 @@ I'm **Abdul Muunam**, Sofware Engineer Undergraduate from Government College Uni
       <br>Surge
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="tailwind" width="48" height="48" />
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="48" height="48" />
       </a>
       <br>tailwind
     </td>
