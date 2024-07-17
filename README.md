@@ -105,11 +105,6 @@ I'm **Abdul Muunam**, Sofware Engineer Undergraduate from Government College Uni
       <br>VS Code
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.leetcode.com/logos/leetcode/leetcode-icon.svg" alt="Vercel" width="48" height="48" />
-      </a>
-      <br>leetcode
-    </td>
-    <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/surgesh/surgesh-icon.svg" alt="Surge" width="48" height="48" />
       </a>
       <br>Surge
@@ -125,19 +120,9 @@ I'm **Abdul Muunam**, Sofware Engineer Undergraduate from Government College Uni
       <br>Slack
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="48" height="48" />
-      </a>
-      <br>Trello
-    </td>
-    <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="48" height="48" />
       </a>
       <br>Canva
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" />
-      </a>
-      <br>Postman
     </td>
   </tr>
 </table>
