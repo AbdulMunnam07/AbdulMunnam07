@@ -105,9 +105,9 @@ I'm **Abdul Muunam**, Sofware Engineer Undergraduate from Government College Uni
       <br>VS Code
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="48" height="48" />
+      <a href="#macropower-tech"><img src="https://www.leetcode.com/logos/leetcode/leetcode-icon.svg" alt="Vercel" width="48" height="48" />
       </a>
-      <br>Vercel
+      <br>leetcode
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/surgesh/surgesh-icon.svg" alt="Surge" width="48" height="48" />
