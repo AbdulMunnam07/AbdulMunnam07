@@ -115,9 +115,9 @@ I'm **Abdul Muunam**, Sofware Engineer Undergraduate from Government College Uni
       <br>Surge
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="Discord" width="48" height="48" />
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/tailwind/tailwind-tile.svg" alt="tailwind" width="48" height="48" />
       </a>
-      <br>Discord
+      <br>tailwind
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" width="48" height="48" />
