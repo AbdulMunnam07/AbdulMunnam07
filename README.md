@@ -10,7 +10,6 @@ I'm **Abdul Muunam**, Sofware Engineer Undergraduate from Government College Uni
 
 [![page views](https://komarev.com/ghpvc/?username=AbdulMunnam07&color=ff3377)](https://github.com/AbdulMunnam07/)
 [![Linkedin Badge](https://img.shields.io/badge/-munnammalik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/munnammalik/)](https://www.linkedin.com/in/munnammalik/)
-[![Medium Badge](https://img.shields.io/badge/-@AbdulMunnam07-6f1727?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@AbdulMunnam07)](https://medium.com/@AbdulMunnam07/)
 [![GitHub followers](https://img.shields.io/github/followers/AbdulMunnam07?label=Follow&style=social)](https://github.com/AbdulMunnam07/)
 [![Gmail Badge](https://img.shields.io/badge/-createrking40@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:createrking40@gmail.com)](mailto:createrking40@gmail.com)
 [![LeetCode Solved Problems](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAbdulMunnam&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/AbdulMunnam/)
