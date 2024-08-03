@@ -52,7 +52,7 @@ I'm **Abdul Muunam**, Sofware Engineer Undergraduate from Government College Uni
 ### Languages
 <a href="https://github.com/AbdulMunnam07">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=js,php,cpp,java,python,&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=js,c,cpp,python,&perline=4" /> 
 </div>
 </a>
 
