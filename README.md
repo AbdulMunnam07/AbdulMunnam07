@@ -1,3 +1,6 @@
+<!-- # Top [![committers.top badge](https://user-badge.committers.top/pakistan/AbdulMunnam07.svg)](https://user-badge.committers.top/pakistan/AbdulMunnam07)th Pakistani Github Contributor. -->
+
+
 <h2 align="center"> Hi &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
 
 <!-- # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
@@ -9,7 +12,6 @@ I'm **Abdul Muunam**, Sofware Engineer Undergraduate from Government College Uni
 
 [![page views](https://komarev.com/ghpvc/?username=AbdulMunnam07&color=ff3377)](https://github.com/AbdulMunnam07/)
 [![Linkedin Badge](https://img.shields.io/badge/-munnammalik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/munnammalik/)](https://www.linkedin.com/in/munnammalik/)
-[![Medium Badge](https://img.shields.io/badge/-@AbdulMunnam07-6f1727?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@AbdulMunnam07)](https://medium.com/@AbdulMunnam07/)
 [![GitHub followers](https://img.shields.io/github/followers/AbdulMunnam07?label=Follow&style=social)](https://github.com/AbdulMunnam07/)
 [![Gmail Badge](https://img.shields.io/badge/-createrking40@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:createrking40@gmail.com)](mailto:createrking40@gmail.com)
 [![LeetCode Solved Problems](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAbdulMunnam&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/AbdulMunnam/)
@@ -26,105 +28,46 @@ I'm **Abdul Muunam**, Sofware Engineer Undergraduate from Government College Uni
 - 🧠 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗔𝗯𝗼𝘂𝘁: Solving complex Data Structures and Algorithms
 - 🥅 2024 𝗚𝗼𝗮𝗹𝘀: Elevating Open Source Contributions
 - 🚀 𝗔𝗰𝘁𝗶𝘃𝗲 𝗜𝗻: Participating in coding competitions & hackathons
-- 🌍 𝗣𝗵𝗗 𝗮𝘀𝗽𝗶𝗿𝗮𝘁𝗶𝗼𝗻𝘀: Advancing in tech in the US
+- 🌍 MS 𝗮𝘀𝗽𝗶𝗿𝗮𝘁𝗶𝗼𝗻𝘀: Advancing in tech in the US
 - 📞 𝗖𝗼𝗻𝘁𝗮𝗰𝘁: Don't hesitate to reach out & let's connect and start a conversation.
 
 --- 
-<h1 align="left"> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35px"> Favorite Tech</h1>
+## My Skill Set 🛠️:
 
-> Tools, languages, and other things that I like to work with.
+<table><tr><td valign="top" width="25%">
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48" />
-      </a>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48" />
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="bootstrap"  width="48" height="48"  />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  alt="JavaScript"  width="48" height="48" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg"  alt="Python"  width="48" height="48" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"  alt="React"  width="48" height="48" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" width="48" height="48" />
-      </a>
-      <br>NodeJS
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" />
-      </a>
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="48" height="48" />
-      </a>
-      <br>Firebase
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="48" height="48" />
-      </a>
-      <br>Netlify
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="48" height="48" />
-      </a>
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" />
-      </a>
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/surgesh/surgesh-icon.svg" alt="Surge" width="48" height="48" />
-      </a>
-      <br>Surge
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="48" height="48" />
-      </a>
-      <br>tailwind
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" width="48" height="48" />
-      </a>
-      <br>Slack
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="48" height="48" />
-      </a>
-      <br>Canva
-    </td>
-  </tr>
-</table>
+### Frontend  
+<a href="https://github.com/AbdulMunnam07">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,materialui&perline=4" /> 
+</div>
+</a>
+
+### Backend  
+<a href="https://github.com/AbdulMunnam07">
+<div align="center">   
+      <img src="https://skillicons.dev/icons?i=mysql,firebase,nodejs,express,mongodb&perline=4" /> 
+</div>
+</a>
+</td><td valign="top" width="25%">
+    
+### Languages
+<a href="https://github.com/AbdulMunnam07">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=js,c,cpp,python,&perline=4" /> 
+</div>
+</a>
+
+</td><td valign="top" width="25%">
+  
+### Others
+<a href="https://github.com/AbdulMunnam07">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,postman,netlify,vite,vercel,heroku,discord,stackoverflow,vscodeqt&perline=4" /> 
+</div>
+</a>
+</td>
+</tr></table>
 
 
 <!-- <h1><img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="45px"> GitHub Analytics </h1> --> 
@@ -132,17 +75,28 @@ I'm **Abdul Muunam**, Sofware Engineer Undergraduate from Government College Uni
 
 
 <p align="center">
+<<<<<<< HEAD
     <a href="https://github.com/arhamansari11">
         <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arhamansari11&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arhamansari11&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
+=======
+    <a href="https://github.com/AbdulMunnam07">
+        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AbdulMunnam07&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdulMunnam07&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
+>>>>>>> 4f5ee91930f3cd73ce60793d8e90272f1140a231
     </a>
 </p>
 
 
 
  <p align="center">
+<<<<<<< HEAD
    <a href="https://github.com/arhamansari11"> 
      <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
+=======
+   <a href="https://github.com/AbdulMunnam07"> 
+     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulMunnam07&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
+>>>>>>> 4f5ee91930f3cd73ce60793d8e90272f1140a231
    </a>  
  </p>
 
