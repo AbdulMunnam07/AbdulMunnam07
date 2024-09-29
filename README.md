@@ -45,7 +45,7 @@ I'm **Abdul Muunam**, Sofware Engineer Undergraduate from Government College Uni
 ### Backend  
 <a href="https://github.com/AbdulMunnam07">
 <div align="center">   
-      <img src="https://skillicons.dev/icons?i=mysql,firebase,nodejs,express,mongodb&perline=4" /> 
+      <img src="https://skillicons.dev/icons?i=firebase,nodejs,express,mongodb&perline=4" /> 
 </div>
 </a>
 </td><td valign="top" width="25%">
@@ -53,7 +53,7 @@ I'm **Abdul Muunam**, Sofware Engineer Undergraduate from Government College Uni
 ### Languages
 <a href="https://github.com/AbdulMunnam07">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=js,c,cpp,python,&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=js,swift,c,cpp,python,&perline=4" /> 
 </div>
 </a>
 
@@ -62,7 +62,7 @@ I'm **Abdul Muunam**, Sofware Engineer Undergraduate from Government College Uni
 ### Others
 <a href="https://github.com/AbdulMunnam07">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,postman,netlify,vite,vercel,heroku,discord,stackoverflow,vscodeqt&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,xcode,vscode,postman,netlify,vite,vercel,heroku,discord,stackoverflow,vscodeqt&perline=4" /> 
 </div>
 </a>
 </td>
