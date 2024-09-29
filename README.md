@@ -62,7 +62,7 @@ I'm **Abdul Muunam**, Sofware Engineer Undergraduate from Government College Uni
 ### Others
 <a href="https://github.com/AbdulMunnam07">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,Xcode,vscode,postman,netlify,vite,vercel,heroku,discord,stackoverflow,vscodeqt&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,postman,netlify,vite,vercel,heroku,discord,stackoverflow,vscodeqt&perline=4" /> 
 </div>
 </a>
 </td>
