@@ -12,7 +12,7 @@ I'm **Abdul Muunam**, Sofware Engineer Undergraduate from Government College Uni
 [![page views](https://komarev.com/ghpvc/?username=AbdulMunnam07&color=ff3377)](https://github.com/AbdulMunnam07/)
 [![Linkedin Badge](https://img.shields.io/badge/-munnammalik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/munnammalik/)](https://www.linkedin.com/in/munnammalik/)
 [![GitHub followers](https://img.shields.io/github/followers/AbdulMunnam07?label=Follow&style=social)](https://github.com/AbdulMunnam07/)
-[![Gmail Badge](https://img.shields.io/badge/-createrking40@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:createrking40@gmail.com)](mailto:createrking40@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-amunnam@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amunnam@gmail.com)](mailto:amunnam@gmail.com)
 [![LeetCode Solved Problems](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAbdulMunnam&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/AbdulMunnam/)
 
 </div>
@@ -22,11 +22,11 @@ I'm **Abdul Muunam**, Sofware Engineer Undergraduate from Government College Uni
 <!-- <h1 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="50px"> About </h1> -->
 <h1 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif" width="70px"> About </h1>
   
-- 📘  𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴: Web Development
-- 🖥️ 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗙𝗼𝗰𝘂𝘀: Frontend Development
+- 📘  𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴: Web Development, Mobile and IOS development
+- 🖥️ 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗙𝗼𝗰𝘂𝘀: Backend, APIs
 - 🧠 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗔𝗯𝗼𝘂𝘁: Solving complex Data Structures and Algorithms
 - 🥅 2024 𝗚𝗼𝗮𝗹𝘀: Elevating Open Source Contributions
-- 🚀 𝗔𝗰𝘁𝗶𝘃𝗲 𝗜𝗻: Participating in coding competitions & hackathons
+- 🚀 𝗔𝗰𝘁𝗶𝘃𝗲 𝗜𝗻: IOS application development 
 - 🌍 MS 𝗮𝘀𝗽𝗶𝗿𝗮𝘁𝗶𝗼𝗻𝘀: Advancing in tech in the US
 - 📞 𝗖𝗼𝗻𝘁𝗮𝗰𝘁: Don't hesitate to reach out & let's connect and start a conversation.
 
