@@ -1,7 +1,5 @@
 <!-- # Top [![committers.top badge](https://user-badge.committers.top/pakistan/AbdulMunnam07.svg)](https://user-badge.committers.top/pakistan/AbdulMunnam07)th Pakistani Github Contributor. -->
-
 <h2 align="center"> Hi &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
-
 <!-- # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
 
 I'm **Abdul Muunam**, Sofware Engineer Undergraduate from Virtual University of Pakistan. I'm a passionate tech enthusiast who loves diving into JavaScript and problem-solving. Always looking for new challenges, I thrive on learning about and experimenting with the latest technologies. I'm dedicated to contributing to open-source projects and enjoy crafting innovative products that make a real difference.
