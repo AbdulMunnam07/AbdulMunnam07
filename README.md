@@ -4,7 +4,7 @@
 
 <!-- # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
 
-I'm **Abdul Muunam**, Sofware Engineer Undergraduate from Government College University Faisalabad. I'm a passionate tech enthusiast who loves diving into JavaScript and problem-solving. Always looking for new challenges, I thrive on learning about and experimenting with the latest technologies. I'm dedicated to contributing to open-source projects and enjoy crafting innovative products that make a real difference.
+I'm **Abdul Muunam**, Senior IOS Developer with well logical skills. \n I have 3+ years experience including 1+ year in Web & Mobile applications development and 2+ experience in Swift ios and MacOS Development. Many of my IOS & MacOS apps are live on app store with a lot of downloaders also many of my website projects are hosted.
 
 <!--[![Twitter Badge](https://img.shields.io/badge/-@sakshamtaneja-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://twitter.com/sakshamtaneja00) -->
 <div align="center">
@@ -45,7 +45,7 @@ I'm **Abdul Muunam**, Sofware Engineer Undergraduate from Government College Uni
 ### Backend  
 <a href="https://github.com/AbdulMunnam07">
 <div align="center">   
-      <img src="https://skillicons.dev/icons?i=firebase,nodejs,express,mongodb&perline=4" /> 
+      <img src="https://skillicons.dev/icons?i=firebase,nodejs,express,coredata,mongodb&perline=4" /> 
 </div>
 </a>
 </td><td valign="top" width="25%">
@@ -62,7 +62,7 @@ I'm **Abdul Muunam**, Sofware Engineer Undergraduate from Government College Uni
 ### Others
 <a href="https://github.com/AbdulMunnam07">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,postman,netlify,vite,vercel,heroku,discord,stackoverflow,vscodeqt&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,xcode,postman,netlify,vite,vercel,heroku,discord,stackoverflow,vscodeqt&perline=4" /> 
 </div>
 </a>
 </td>
