@@ -11,7 +11,7 @@ I'm **Abdul Muunam**, Senior IOS Developer with well logical skills. <br> I have
 [![page views](https://komarev.com/ghpvc/?username=AbdulMunnam07&color=ff3377)](https://github.com/AbdulMunnam07/)
 [![Linkedin Badge](https://img.shields.io/badge/-munnammalik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[vv](https://www.linkedin.com/in/abdul-munnim-8a2051372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))]([https://www.linkedin.com/in/munnammalik/](https://www.linkedin.com/in/abdul-munnim-8a2051372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 [![GitHub followers](https://img.shields.io/github/followers/AbdulMunnam07?label=Follow&style=social)](https://github.com/AbdulMunnam07/)
-[![Gmail Badge](https://img.shields.io/badge/-amunnam@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amunnam@gmail.com)](mailto:amunnam@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-amunnam07@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amunnam07@gmail.com)](mailto:amunnam07@gmail.com)
 [![LeetCode Solved Problems](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAbdulMunnam&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/AbdulMunnam/)
 
 </div>
